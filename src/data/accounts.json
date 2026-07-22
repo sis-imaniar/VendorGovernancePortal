@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "email": "imaniar.rusydiawan@saptaindra.co.id",
+    "password": "check123",
+    "nama": "Imaniar Rusydiawan",
+    "group": "Administrator"
+  },
+  {
+    "id": 2,
+    "email": "dian.permata@perusahaan.co.id",
+    "password": "check123",
+    "nama": "Dian Permata",
+    "group": "Checker"
+  }
+]

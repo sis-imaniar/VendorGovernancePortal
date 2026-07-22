@@ -1,0 +1,8 @@
+[
+  { "id": 1, "username": "admin.budi",    "nama": "Budi Santoso",     "email": "budi.santoso@perusahaan.co.id",    "perusahaan": "PT Sapta Indra Sejati",      "group": "Administrator", "status": "aktif"    },
+  { "id": 2, "username": "hr.siti",       "nama": "Siti Rahayu",      "email": "siti.rahayu@perusahaan.co.id",     "perusahaan": "PT Sapta Indra Sejati",      "group": "Administrator", "status": "aktif"    },
+  { "id": 3, "username": "ops.dian",      "nama": "Dian Permata",     "email": "dian.permata@perusahaan.co.id",    "perusahaan": "PT Geo Surveyor Nusantara",  "group": "Checker",       "status": "aktif"    },
+  { "id": 4, "username": "finance.eko",   "nama": "Eko Prasetyo",     "email": "eko.prasetyo@perusahaan.co.id",    "perusahaan": "PT Geo Surveyor Nusantara",  "group": "Checker",       "status": "nonaktif" },
+  { "id": 5, "username": "it.rina",       "nama": "Rina Wulandari",   "email": "rina.wulandari@perusahaan.co.id",  "perusahaan": "PT Sapta Indra Sejati",      "group": "Checker",       "status": "aktif"    },
+  { "id": 6, "username": "legal.hendra",  "nama": "Hendra Kurniawan", "email": "hendra.kurniawan@perusahaan.co.id","perusahaan": "PT Alamtri Resources",       "group": "Administrator", "status": "nonaktif" }
+]

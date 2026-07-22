@@ -1,0 +1,15 @@
+[
+  { "code": "2", "nama": "TON OMO",     "nik": "095770290", "jenisKelamin": "Laki-laki",  "tglLahir": "1985-03-12", "alamat": "Jl. Merdeka No. 12, Jakarta",       "noHp": "081234500001", "status": "aktif" },
+  { "code": "2", "nama": "AAD RALI",    "nik": "160530289", "jenisKelamin": "Laki-laki",  "tglLahir": "1989-05-16", "alamat": "Jl. Sudirman Blok A3, Bandung",    "noHp": "081234500002", "status": "aktif" },
+  { "code": "2", "nama": "MAD AL RAN", "nik": "160460003", "jenisKelamin": "Laki-laki",  "tglLahir": "1990-06-24", "alamat": "Jl. Gatot Subroto No. 7, Bogor",   "noHp": "081234500003", "status": "aktif" },
+  { "code": "2", "nama": "M. ADI",      "nik": "160830010", "jenisKelamin": "Laki-laki",  "tglLahir": "1983-08-03", "alamat": "Jl. Diponegoro No. 5, Depok",      "noHp": "081234500004", "status": "aktif" },
+  { "code": "2", "nama": "IANI",        "nik": "160410008", "jenisKelamin": "Perempuan",  "tglLahir": "1991-04-01", "alamat": "Jl. Pahlawan No. 9, Bekasi",       "noHp": "081234500005", "status": "aktif" },
+  { "code": "2", "nama": "NU D AHBY",  "nik": "317480009", "jenisKelamin": "Laki-laki",  "tglLahir": "1988-07-17", "alamat": "Jl. Raya Darmo No. 4, Surabaya",   "noHp": "081234500006", "status": "aktif" },
+  { "code": "2", "nama": "ANI",         "nik": "317120001", "jenisKelamin": "Perempuan",  "tglLahir": "1992-12-07", "alamat": "Jl. Mawar No. 3, Tangerang",       "noHp": "081234500007", "status": "aktif" },
+  { "code": "2", "nama": "AD RANI",    "nik": "312000010", "jenisKelamin": "Laki-laki",  "tglLahir": "1987-01-20", "alamat": "Jl. Kenanga No. 11, Semarang",     "noHp": "081234500008", "status": "aktif" },
+  { "code": "2", "nama": "HAK VAI",    "nik": "317480004", "jenisKelamin": "Laki-laki",  "tglLahir": "1994-08-04", "alamat": "Jl. Melati No. 6, Yogyakarta",     "noHp": "081234500009", "status": "aktif" },
+  { "code": "1", "nama": "FI ANTO",    "nik": "323900002", "jenisKelamin": "Laki-laki",  "tglLahir": "1986-09-02", "alamat": "Jl. Flamboyan No. 2, Malang",      "noHp": "081234500010", "status": "aktif" },
+  { "code": "1", "nama": "EVI UMI SUNO","nik":"327310001", "jenisKelamin": "Perempuan",  "tglLahir": "1993-03-27", "alamat": "Jl. Cempaka No. 8, Solo",          "noHp": "081234500011", "status": "aktif" },
+  { "code": "1", "nama": "RY GROHO",   "nik": "327550021", "jenisKelamin": "Laki-laki",  "tglLahir": "1990-05-27", "alamat": "Jl. Anggrek No. 14, Medan",        "noHp": "081234500012", "status": "aktif" },
+  { "code": "2", "nama": "ER UNTAK",   "nik": "327700022", "jenisKelamin": "Laki-laki",  "tglLahir": "1984-07-27", "alamat": "Jl. Tulip No. 19, Makassar",       "noHp": "081234500013", "status": "aktif" }
+]

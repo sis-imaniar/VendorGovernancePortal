@@ -1,0 +1,11 @@
+@import 'alamtri-geo-design-system/style.css';
+@import 'tailwindcss';
+
+:root {
+  color-scheme: light !important;
+}
+
+html, body {
+  background-color: var(--atg-bg, #f7f8f9);
+  color: var(--atg-text, #013b52);
+}
